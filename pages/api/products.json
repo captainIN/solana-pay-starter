@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Gamer Buddy",
+    "price": "1.99",
+    "image_url": "https://i.giphy.com/media/3ohs7JkCdGpFf3A5Fe/giphy.webp",
+    "description": "Have you been so indulged in gaming? This dude is ; )",
+    "filename": "giphy1.gif",
+    "hash": "QmT9QSidafXBPVszgT9aee8QhXz7jkUwJadj7BUiHQfgvr"
+  },
+  {
+    "id": 2,
+    "name": "Simpsons 80S",
+    "price": "0.99",
+    "image_url": "https://media0.giphy.com/media/MF1S3yYk8cMJKbBBwT/giphy.gif?cid=790b7611b2ea5a5f864a5a75830a616b12081937cabe2702&rid=giphy.gif&ct=g",
+    "description": "Simpson. Thats ALL!",
+    "filename": "giphy2.gif",
+    "hash": "QmPYze2ss5g3DZR6QGwEz46urmqvJnJSRmAEDAHoRBXwb2"
+  }
+]
